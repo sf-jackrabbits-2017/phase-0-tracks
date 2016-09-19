@@ -1,4 +1,4 @@
-I hope my definitions show competent understanding
+I hope my definitions show competent understanding.
 
 * What is version control?  Why is it useful?
 Version control is a system by which a programmer can keep track of changes made to a pieces of code while ensuring the original source code is protected from unwanted edits. 
